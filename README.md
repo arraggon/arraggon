@@ -14,6 +14,3 @@
 - **SCARA Pen Plotter Robot** — Arduino microcontroller programming, G-code interpretation, and stepper motor control.
 - **[FPGA Digital Clock](https://github.com/arraggon/ECEClock)** — Digital clock design using SystemVerilog and Intel Quartus.
 - **PCB Design** — Circuit schematics and PCB layouts using KiCad.
-
-### 📫 Contact
-📧 arraggonyang@gmail.com
