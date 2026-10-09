@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dongwen Yang 👋
 
-<!--
-**arraggon/arraggon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical & Computer Engineering** student at Oregon State University, minoring in **Computer Science**. Expected graduation: June 2027.
 
-Here are some ideas to get you started:
+💻 Interested in **embedded systems, microcontrollers, automation, and hardware-software integration**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Languages:** C, C++, Python, SystemVerilog
+- **Hardware:** Arduino, FPGA, PCB Design, Digital Logic
+- **Tools:** Linux, Git, Intel Quartus, KiCad
+
+### 🚀 Projects
+- **Cellphone App-controlled Toy (CAT)** — Senior Capstone (In Progress). Developing a smartphone-controlled embedded system with my team. [Project Details](https://eecs.engineering.oregonstate.edu/capstone/submission/pages/viewSingleProject.php?id=7DWqY8FGKARUndqA)
+- **SCARA Pen Plotter Robot** — Arduino microcontroller programming, G-code interpretation, and stepper motor control.
+- **[FPGA Digital Clock](https://github.com/arraggon/ECEClock)** — Digital clock design using SystemVerilog and Intel Quartus.
+- **PCB Design** — Circuit schematics and PCB layouts using KiCad.
+
+### 📫 Contact
+📧 arraggonyang@gmail.com
